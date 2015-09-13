@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueWebSocket", "ValueWebSocket\ValueWebSocket.csproj", "{BC91377F-9DE4-4BCD-A459-3B9529E08E9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocket Asp.net", "WebSocket Asp.net\WebSocket Asp.net.csproj", "{0E9D9885-161B-4A89-B24A-2FCB91501A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueWebSocket.Test", "ValueWebSocket.Test\ValueWebSocket.Test.csproj", "{7A761A24-4870-4963-9352-1668A02EF1C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC91377F-9DE4-4BCD-A459-3B9529E08E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC91377F-9DE4-4BCD-A459-3B9529E08E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC91377F-9DE4-4BCD-A459-3B9529E08E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC91377F-9DE4-4BCD-A459-3B9529E08E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9D9885-161B-4A89-B24A-2FCB91501A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9D9885-161B-4A89-B24A-2FCB91501A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9D9885-161B-4A89-B24A-2FCB91501A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9D9885-161B-4A89-B24A-2FCB91501A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A761A24-4870-4963-9352-1668A02EF1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A761A24-4870-4963-9352-1668A02EF1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A761A24-4870-4963-9352-1668A02EF1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A761A24-4870-4963-9352-1668A02EF1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+F:\开发\WebSocket\WebSocket\WebSocket Asp.net\bin\WebSocket Asp.net.dll.config
+F:\开发\WebSocket\WebSocket\WebSocket Asp.net\bin\WebSocket Asp.net.dll
+F:\开发\WebSocket\WebSocket\WebSocket Asp.net\bin\WebSocket Asp.net.pdb
+F:\开发\WebSocket\WebSocket\WebSocket Asp.net\obj\Debug\WebSocket Asp.net.dll
+F:\开发\WebSocket\WebSocket\WebSocket Asp.net\obj\Debug\WebSocket Asp.net.pdb
+F:\开发\WebSocket\WebSocket\WebSocket Asp.net\obj\Debug\WebSocket Asp.net.csprojResolveAssemblyReference.cache
+F:\开发\WebSocket\WebSocket\WebSocket Asp.net\bin\ValueWebSocket.dll
+F:\开发\WebSocket\WebSocket\WebSocket Asp.net\bin\ValueHelper.dll
+F:\开发\WebSocket\WebSocket\WebSocket Asp.net\bin\ValueWebSocket.pdb

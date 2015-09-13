@@ -1,0 +1,11 @@
+E:\ValueProgram\Value.Socket\WebSocket\ValueWebSocket\bin\Debug\ValueWebSocket.dll
+E:\ValueProgram\Value.Socket\WebSocket\ValueWebSocket\bin\Debug\ValueWebSocket.pdb
+E:\ValueProgram\Value.Socket\WebSocket\ValueWebSocket\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ValueProgram\Value.Socket\WebSocket\ValueWebSocket\bin\Debug\ValueHelper.pdb
+E:\ValueProgram\Value.Socket\WebSocket\ValueWebSocket\obj\Debug\ResolveAssemblyReference.cache
+E:\ValueProgram\Value.Socket\WebSocket\ValueWebSocket\obj\Debug\ValueWebSocket.dll
+E:\ValueProgram\Value.Socket\WebSocket\ValueWebSocket\obj\Debug\ValueWebSocket.pdb
+F:\开发\WebSocket\WebSocket\ValueWebSocket\bin\Debug\ValueWebSocket.dll
+F:\开发\WebSocket\WebSocket\ValueWebSocket\bin\Debug\ValueWebSocket.pdb
+F:\开发\WebSocket\WebSocket\ValueWebSocket\obj\Debug\ValueWebSocket.dll
+F:\开发\WebSocket\WebSocket\ValueWebSocket\obj\Debug\ValueWebSocket.pdb
